@@ -8,7 +8,7 @@ We provide content recommendation for websites. This is our technical support ch
 
 Send us a request via [contact page](https://racontent.com/contact/) or email **racontent.com@gmail.com**
 
-### 2. Submit your website's content
+### 2. Provide us your website's content
 
 We need to collect your website's content to perform our recommendation engine.
 
