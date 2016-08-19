@@ -12,9 +12,9 @@ Send us a request via [contact page](https://racontent.com/contact/) or email **
 
 We need to collect your website's content to perform our recommendation engine.
 
-You'll create an API for us for updating your website's content
+You'll create an [API](https://github.com/datanee/racontent/wiki/Website-provides-content#content-api) for us for updating your website's content
 
-Check detail instruction.
+Check [detail instruction](https://github.com/datanee/racontent/wiki/Website-provides-content).
 
 ### 3. Insert our script to your website
 
