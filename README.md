@@ -12,7 +12,7 @@ Send us a request via [contact page](https://racontent.com/contact/) or email **
 
 We need to collect your website's content to perform our recommendation engine.
 
-You'll create an [API](https://github.com/datanee/racontent/wiki/Website-provides-content#content-api) for us for updating your website's content. If your web's traffic is large, allow us to crawl it so you don't need to create API any more.
+You'll create an [API](https://github.com/datanee/racontent/wiki/Website-provides-content#content-api) for us for updating your website's content. If your web's traffic is big (1M visits/month), allow us to crawl it so you don't need to create API any more.
 
 A bonus step (optional for you) for [speeding up the process](https://github.com/datanee/racontent/wiki/Speeding-up-the-process). You'll insert our [tracking script](https://github.com/datanee/racontent/wiki/Speeding-up-the-process#tracking-scripts) to your website. Don't worry about that, you can remove it latter.
 
