@@ -26,6 +26,6 @@ After our confirmation, your website needs to insert our script. After that, you
 
 Currently we provide 2 default scripts. Check [detail instruction](https://github.com/datanee/racontent/wiki/Widgets).
 
-Note: to speeding up the whole process, at the beginning you can put our tracking scripts. It helps us build recommendation engine much faster. [Check detail](https://github.com/datanee/racontent/wiki/Speeding-up-the-process).
+Note again: to speeding up the whole process, at the beginning you can put our tracking scripts. It helps us build recommendation engine much faster. [Check detail](https://github.com/datanee/racontent/wiki/Speeding-up-the-process).
 
 ## That's our pleasure to be with you.
